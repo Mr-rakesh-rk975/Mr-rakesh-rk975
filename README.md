@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about technology and always eager t
 - Problem-solving & Competitive programming  
 
 ## 🌱 Currently Learning  
-- JavaScript & React.js  
+- JavaScript & React.js, Next.js, React-native  
 - Backend development (Node.js, Express, MongoDB)  
 - Data structures & algorithms  
 
